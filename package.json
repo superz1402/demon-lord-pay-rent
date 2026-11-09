@@ -1,0 +1,16 @@
+{
+  "name": "demon-lord-pay-rent",
+  "version": "0.1.0",
+  "private": true,
+  "description": "「魔王、家賃を払え！」— a funny anime sitcom rendered by raea. No video models, just your GPU.",
+  "scripts": {
+    "render:coldopen": "raea render src/scenes/ColdOpen.tsx -o out/cold-open.mp4",
+    "render:op": "raea render src/scenes/Op.tsx -o out/op.mp4",
+    "render:eyecatch": "raea render src/scenes/Eyecatch.tsx -o out/eyecatch.mp4",
+    "render:endcard": "raea render src/scenes/EndCard.tsx -o out/end-card.mp4",
+    "check": "raea check out/episode-1.mp4"
+  },
+  "dependencies": {
+    "raea": "latest"
+  }
+}

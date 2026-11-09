@@ -1,0 +1,11 @@
+node_modules/
+out/
+__pycache__/
+.DS_Store
+
+# large redundant audio (theme.mp3 is canonical)
+*.wav
+
+# release artifacts live on GitHub Releases, not in git
+*.zip
+*.mp4
