@@ -34,9 +34,11 @@ public/audio/theme.mp3      51s synthesized sitcom-funk bed (already mixed to pi
 docs/EPISODE_01.md          script + shot list + style bible
 ```
 
-**Watch it right now:** `dlpr_animatic_preview.mp4` (one folder up) is a rough
-PIL-rendered animatic of this exact beat sheet with the theme music — no raea
-required. The raea render is the crisp 1080p GPU version of the same timing.
+**Watch the FULL EPISODE:** `dlpr_episode1_full.mp4` (3:56, 720p) — the complete
+Episode 1 with **full voice narration** (6 TTS voices: the cat narrator, Xargoth,
+Kenji, the manager, a customer and Landlord Obaa-san), a 237s original score and
+synthesized SFX, rendered by the code pipeline in [`render_pipeline/`](render_pipeline/).
+The older `dlpr_animatic_preview.mp4` (51s) is the original rough animatic.
 
 ---
 

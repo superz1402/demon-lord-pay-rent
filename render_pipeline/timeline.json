@@ -1,0 +1,514 @@
+{
+ "fps": 30,
+ "total_frames": 7098,
+ "total_sec": 236.6,
+ "segs": [
+  {
+   "name": "cold",
+   "frames": 660,
+   "start": 0.0,
+   "end": 22.0
+  },
+  {
+   "name": "op",
+   "frames": 540,
+   "start": 22.0,
+   "end": 40.0
+  },
+  {
+   "name": "apart",
+   "frames": 2700,
+   "start": 40.0,
+   "end": 130.0
+  },
+  {
+   "name": "eye",
+   "frames": 150,
+   "start": 130.0,
+   "end": 135.0
+  },
+  {
+   "name": "bpart",
+   "frames": 2700,
+   "start": 135.0,
+   "end": 225.0
+  },
+  {
+   "name": "end",
+   "frames": 348,
+   "start": 225.0,
+   "end": 236.6
+  }
+ ],
+ "lines": [
+  {
+   "id": "n01",
+   "voice": "n",
+   "start": 0.8,
+   "dur": 6.561,
+   "end": 7.361,
+   "tempo": 1.0,
+   "text": "Apartment 302. Friday night. A demon lord, one hundred and eight worlds conquered... three months behind on rent."
+  },
+  {
+   "id": "x01",
+   "voice": "x",
+   "start": 9.3,
+   "dur": 4.482,
+   "end": 13.782,
+   "tempo": 1.179,
+   "text": "One hundred and eight worlds conquered. A landlord? The logistics... elude me."
+  },
+  {
+   "id": "k01",
+   "voice": "k",
+   "start": 14.1,
+   "dur": 3.213,
+   "end": 17.313,
+   "tempo": 1.18,
+   "text": "Xargoth. Rent day. THREE. MONTHS."
+  },
+  {
+   "id": "x02",
+   "voice": "x",
+   "start": 17.463,
+   "dur": 1.72,
+   "end": 19.183,
+   "tempo": 1.18,
+   "text": "Behold. Economics.",
+   "shift": 0.46
+  },
+  {
+   "id": "n02",
+   "voice": "n",
+   "start": 19.333,
+   "dur": 3.119,
+   "end": 22.451,
+   "tempo": 1.18,
+   "text": "Yep. Two hundred and eighty four thousand yen behind on rent. Same.",
+   "shift": 0.38
+  },
+  {
+   "id": "n03",
+   "voice": "n",
+   "start": 31.8,
+   "dur": 2.39,
+   "end": 34.19,
+   "tempo": 1.0,
+   "text": "Three months behind. One cat. Unbothered."
+  },
+  {
+   "id": "n04",
+   "voice": "n",
+   "start": 40.6,
+   "dur": 2.479,
+   "end": 43.079,
+   "tempo": 1.002,
+   "text": "Then, under the door... a shadow."
+  },
+  {
+   "id": "n05",
+   "voice": "n",
+   "start": 43.3,
+   "dur": 0.58,
+   "end": 43.88,
+   "tempo": 1.0,
+   "text": "The landlord."
+  },
+  {
+   "id": "k02",
+   "voice": "k",
+   "start": 44.8,
+   "dur": 3.123,
+   "end": 47.923,
+   "tempo": 1.0,
+   "text": "He turned the rent envelope into confetti. Again."
+  },
+  {
+   "id": "x03",
+   "voice": "x",
+   "start": 48.6,
+   "dur": 3.21,
+   "end": 51.81,
+   "tempo": 1.134,
+   "text": "Paper is temporary. The crown is forever."
+  },
+  {
+   "id": "x04",
+   "voice": "x",
+   "start": 52.0,
+   "dur": 2.68,
+   "end": 54.68,
+   "tempo": 1.039,
+   "text": "The small one will protect me."
+  },
+  {
+   "id": "n06",
+   "voice": "n",
+   "start": 54.9,
+   "dur": 1.994,
+   "end": 56.894,
+   "tempo": 1.0,
+   "text": "I could fix this. I choose not to."
+  },
+  {
+   "id": "n07",
+   "voice": "n",
+   "start": 57.9,
+   "dur": 1.971,
+   "end": 59.871,
+   "tempo": 1.0,
+   "text": "Excuse number one: currency."
+  },
+  {
+   "id": "x05",
+   "voice": "x",
+   "start": 60.5,
+   "dur": 2.859,
+   "end": 63.359,
+   "tempo": 1.0,
+   "text": "Behold! The treasury of the abyss!"
+  },
+  {
+   "id": "k03",
+   "voice": "k",
+   "start": 66.3,
+   "dur": 3.298,
+   "end": 69.598,
+   "tempo": 1.0,
+   "text": "This is three thousand points at Tasty Mart."
+  },
+  {
+   "id": "x06",
+   "voice": "x",
+   "start": 70.1,
+   "dur": 1.044,
+   "end": 71.144,
+   "tempo": 1.0,
+   "text": "A treasury."
+  },
+  {
+   "id": "k04",
+   "voice": "k",
+   "start": 74.0,
+   "dur": 2.837,
+   "end": 76.837,
+   "tempo": 1.0,
+   "text": "Points. At. Tasty. Mart."
+  },
+  {
+   "id": "n08",
+   "voice": "n",
+   "start": 77.2,
+   "dur": 1.642,
+   "end": 78.842,
+   "tempo": 1.0,
+   "text": "The treasury was not accepted."
+  },
+  {
+   "id": "n09",
+   "voice": "n",
+   "start": 81.3,
+   "dur": 1.576,
+   "end": 82.876,
+   "tempo": 1.0,
+   "text": "Excuse number two: diplomacy."
+  },
+  {
+   "id": "x07",
+   "voice": "x",
+   "start": 84.0,
+   "dur": 4.128,
+   "end": 88.128,
+   "tempo": 1.0,
+   "text": "I hereby declare this apartment sovereign territory! The nation of Xargothia!"
+  },
+  {
+   "id": "n10",
+   "voice": "n",
+   "start": 90.5,
+   "dur": 3.018,
+   "end": 93.518,
+   "tempo": 1.0,
+   "text": "Treaties require signatures. I have marked mine."
+  },
+  {
+   "id": "k05",
+   "voice": "k",
+   "start": 94.2,
+   "dur": 2.698,
+   "end": 96.898,
+   "tempo": 1.0,
+   "text": "The cat just contested your border."
+  },
+  {
+   "id": "n11",
+   "voice": "n",
+   "start": 98.5,
+   "dur": 2.301,
+   "end": 100.801,
+   "tempo": 1.0,
+   "text": "The nation of Xargothia fell in eleven seconds."
+  },
+  {
+   "id": "n12",
+   "voice": "n",
+   "start": 106.3,
+   "dur": 1.805,
+   "end": 108.105,
+   "tempo": 1.0,
+   "text": "Excuse number three: employment."
+  },
+  {
+   "id": "k06",
+   "voice": "k",
+   "start": 109.0,
+   "dur": 4.281,
+   "end": 113.281,
+   "tempo": 1.18,
+   "text": "Tasty Mart is hiring. Interview. Tuesday. Please."
+  },
+  {
+   "id": "x08",
+   "voice": "x",
+   "start": 113.431,
+   "dur": 3.371,
+   "end": 116.802,
+   "tempo": 1.0,
+   "text": "Under experience: one hundred and eight worlds.",
+   "shift": 0.23
+  },
+  {
+   "id": "m01",
+   "voice": "m",
+   "start": 118.3,
+   "dur": 1.376,
+   "end": 119.676,
+   "tempo": 1.0,
+   "text": "Can you start Tuesday?"
+  },
+  {
+   "id": "x09",
+   "voice": "x",
+   "start": 120.6,
+   "dur": 3.918,
+   "end": 124.518,
+   "tempo": 1.0,
+   "text": "He kneels first... this shop kneels first..."
+  },
+  {
+   "id": "n13",
+   "voice": "n",
+   "start": 125.5,
+   "dur": 1.694,
+   "end": 127.194,
+   "tempo": 1.0,
+   "text": "He was hired before the tear hit the floor."
+  },
+  {
+   "id": "n14",
+   "voice": "n",
+   "start": 135.6,
+   "dur": 2.355,
+   "end": 137.955,
+   "tempo": 1.0,
+   "text": "Night one. The store had never known such efficiency."
+  },
+  {
+   "id": "x10",
+   "voice": "x",
+   "start": 140.2,
+   "dur": 3.897,
+   "end": 144.096,
+   "tempo": 1.0,
+   "text": "Formations! Onigiri at the front. The pudding holds the line."
+  },
+  {
+   "id": "n15",
+   "voice": "n",
+   "start": 153.0,
+   "dur": 3.336,
+   "end": 156.336,
+   "tempo": 1.0,
+   "text": "Sales rose nine hundred percent. Morale fell to zero."
+  },
+  {
+   "id": "c01",
+   "voice": "c",
+   "start": 160.6,
+   "dur": 2.421,
+   "end": 163.021,
+   "tempo": 1.0,
+   "text": "Excuse me. Where is the limited edition pudding?"
+  },
+  {
+   "id": "x11",
+   "voice": "x",
+   "start": 165.0,
+   "dur": 3.109,
+   "end": 168.109,
+   "tempo": 1.0,
+   "text": "You dare address the Demon Lord of the register?"
+  },
+  {
+   "id": "k07",
+   "voice": "k",
+   "start": 170.4,
+   "dur": 3.015,
+   "end": 173.415,
+   "tempo": 1.132,
+   "text": "THE CUSTOMER IS AN ALLY, NOT A GOBLIN!"
+  },
+  {
+   "id": "x12",
+   "voice": "x",
+   "start": 173.6,
+   "dur": 3.484,
+   "end": 177.084,
+   "tempo": 1.0,
+   "text": "Then the ally shall know my wrath."
+  },
+  {
+   "id": "n16",
+   "voice": "n",
+   "start": 178.0,
+   "dur": 3.182,
+   "end": 181.182,
+   "tempo": 1.0,
+   "text": "He declared war on a customer. The customer left a one star review."
+  },
+  {
+   "id": "n17",
+   "voice": "n",
+   "start": 183.0,
+   "dur": 2.711,
+   "end": 185.711,
+   "tempo": 1.0,
+   "text": "Payday. Forty six thousand yen. In an envelope."
+  },
+  {
+   "id": "x13",
+   "voice": "x",
+   "start": 190.8,
+   "dur": 2.306,
+   "end": 193.106,
+   "tempo": 1.0,
+   "text": "...So this is what the peasants feel."
+  },
+  {
+   "id": "n18",
+   "voice": "n",
+   "start": 195.6,
+   "dur": 1.717,
+   "end": 197.317,
+   "tempo": 1.0,
+   "text": "Character growth. Disgusting."
+  },
+  {
+   "id": "k08",
+   "voice": "k",
+   "start": 199.0,
+   "dur": 4.259,
+   "end": 203.259,
+   "tempo": 1.0,
+   "text": "You did it. That's actually rent money. For one month."
+  },
+  {
+   "id": "x14",
+   "voice": "x",
+   "start": 203.8,
+   "dur": 4.016,
+   "end": 207.816,
+   "tempo": 1.0,
+   "text": "Then the realm shall have... a second shift."
+  },
+  {
+   "id": "n19",
+   "voice": "n",
+   "start": 210.4,
+   "dur": 2.318,
+   "end": 212.718,
+   "tempo": 1.0,
+   "text": "And so... the first wages of the demon lord."
+  },
+  {
+   "id": "x15",
+   "voice": "x",
+   "start": 213.7,
+   "dur": 3.199,
+   "end": 216.899,
+   "tempo": 1.0,
+   "text": "Landlord. For the honor of the crown."
+  },
+  {
+   "id": "o01",
+   "voice": "o",
+   "start": 217.4,
+   "dur": 3.356,
+   "end": 220.756,
+   "tempo": 1.0,
+   "text": "Three months is two hundred eighty four thousand, little king."
+  },
+  {
+   "id": "x16",
+   "voice": "x",
+   "start": 223.2,
+   "dur": 3.092,
+   "end": 226.292,
+   "tempo": 1.18,
+   "text": "...I have conquered one hundred and eight worlds."
+  },
+  {
+   "id": "x17",
+   "voice": "x",
+   "start": 228.2,
+   "dur": 2.283,
+   "end": 230.483,
+   "tempo": 1.0,
+   "text": "The router... shall kneel."
+  },
+  {
+   "id": "k09",
+   "voice": "k",
+   "start": 232.0,
+   "dur": 4.232,
+   "end": 236.232,
+   "tempo": 1.18,
+   "text": "It's written on the lease. WHERE ARE MY KEYS."
+  }
+ ],
+ "events": {
+  "freeze_f": 572,
+  "freeze_t": 19.08,
+  "snap_t": 17.34,
+  "don_k1": 14.2,
+  "op_logo": 22.0,
+  "op_cards": [
+   23.333333333333332,
+   26.0,
+   28.666666666666668,
+   31.333333333333336
+  ],
+  "op_group": 31.333333333333336,
+  "op_finale": 35.333333333333336,
+  "eye_t": 130.0,
+  "laugh_t": [
+   57.19,
+   71.39,
+   101.1,
+   127.49,
+   197.62
+  ],
+  "shadow_t": 40.6,
+  "flag_t": 84.0,
+  "review_t": 180.38,
+  "payday_t": 183.0,
+  "payday_silence": [
+   185.81,
+   190.7
+  ],
+  "obaa_t": 217.1,
+  "collapse_t": 220.76,
+  "end_t": 225.0
+ }
+}
