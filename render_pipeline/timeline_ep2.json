@@ -1,0 +1,590 @@
+{
+ "fps": 30,
+ "total_frames": 7098,
+ "total_sec": 236.6,
+ "segs": [
+  {
+   "name": "cold",
+   "frames": 660,
+   "start": 0.0,
+   "end": 22.0
+  },
+  {
+   "name": "op",
+   "frames": 540,
+   "start": 22.0,
+   "end": 40.0
+  },
+  {
+   "name": "apart",
+   "frames": 2700,
+   "start": 40.0,
+   "end": 130.0
+  },
+  {
+   "name": "eye",
+   "frames": 150,
+   "start": 130.0,
+   "end": 135.0
+  },
+  {
+   "name": "bpart",
+   "frames": 2700,
+   "start": 135.0,
+   "end": 225.0
+  },
+  {
+   "name": "end",
+   "frames": 348,
+   "start": 225.0,
+   "end": 236.6
+  }
+ ],
+ "lines": [
+  {
+   "id": "n01",
+   "voice": "n",
+   "start": 0.8,
+   "dur": 7.083,
+   "end": 7.883,
+   "tempo": 1.0,
+   "text": "Apartment 302. Saturday, six a.m. The demon lord rose for the most sacred of rituals: the router."
+  },
+  {
+   "id": "x01",
+   "voice": "x",
+   "start": 8.6,
+   "dur": 5.26,
+   "end": 13.86,
+   "tempo": 1.18,
+   "text": "Kneel, small box of stars. Pour the abyss into my phone."
+  },
+  {
+   "id": "k01",
+   "voice": "k",
+   "start": 14.01,
+   "dur": 2.777,
+   "end": 16.787,
+   "tempo": 1.18,
+   "text": "Red since Tuesday. That's the RENT light.",
+   "shift": 0.11
+  },
+  {
+   "id": "x02",
+   "voice": "x",
+   "start": 17.0,
+   "dur": 1.718,
+   "end": 18.718,
+   "tempo": 1.18,
+   "text": "There is a light... for RENT?"
+  },
+  {
+   "id": "n02",
+   "voice": "n",
+   "start": 18.95,
+   "dur": 2.482,
+   "end": 21.432,
+   "tempo": 1.0,
+   "text": "There is a light for everything. Except options."
+  },
+  {
+   "id": "n03",
+   "voice": "n",
+   "start": 31.8,
+   "dur": 2.384,
+   "end": 34.184,
+   "tempo": 1.0,
+   "text": "One crown. One debt. Zero bars."
+  },
+  {
+   "id": "n04",
+   "voice": "n",
+   "start": 40.6,
+   "dur": 2.874,
+   "end": 43.474,
+   "tempo": 1.0,
+   "text": "The plan had been simple. Sell the crown. Online."
+  },
+  {
+   "id": "n05",
+   "voice": "n",
+   "start": 44.3,
+   "dur": 1.907,
+   "end": 46.206,
+   "tempo": 1.18,
+   "text": "The plan required... the internet."
+  },
+  {
+   "id": "k02",
+   "voice": "k",
+   "start": 46.7,
+   "dur": 3.852,
+   "end": 50.552,
+   "tempo": 1.18,
+   "text": "Which is off. Because of the rent. Which is YOU."
+  },
+  {
+   "id": "x03",
+   "voice": "x",
+   "start": 50.702,
+   "dur": 4.401,
+   "end": 55.103,
+   "tempo": 1.18,
+   "text": "Then the crown goes to auction. The reserve: two hundred thirty-eight thousand yen.",
+   "shift": 0.2
+  },
+  {
+   "id": "n06",
+   "voice": "n",
+   "start": 55.3,
+   "dur": 2.132,
+   "end": 57.432,
+   "tempo": 1.18,
+   "text": "Priced at exactly the gap. It hurt."
+  },
+  {
+   "id": "n07",
+   "voice": "n",
+   "start": 58.2,
+   "dur": 1.903,
+   "end": 60.103,
+   "tempo": 1.18,
+   "text": "Plan one: overwhelming force."
+  },
+  {
+   "id": "x04",
+   "voice": "x",
+   "start": 60.253,
+   "dur": 5.008,
+   "end": 65.261,
+   "tempo": 1.18,
+   "text": "Wake, machine. I am Xargoth the Unending. UNENDING. Think of your warranty.",
+   "shift": 0.05
+  },
+  {
+   "id": "k03",
+   "voice": "k",
+   "start": 65.411,
+   "dur": 2.988,
+   "end": 68.399,
+   "tempo": 1.048,
+   "text": "It means you unplug it and plug it back in.",
+   "shift": 0.01
+  },
+  {
+   "id": "n08",
+   "voice": "n",
+   "start": 68.9,
+   "dur": 1.461,
+   "end": 70.361,
+   "tempo": 1.0,
+   "text": "The ancient rite was performed."
+  },
+  {
+   "id": "x05",
+   "voice": "x",
+   "start": 71.0,
+   "dur": 1.003,
+   "end": 72.003,
+   "tempo": 1.0,
+   "text": "It lives—"
+  },
+  {
+   "id": "n09",
+   "voice": "n",
+   "start": 73.4,
+   "dur": 3.06,
+   "end": 76.46,
+   "tempo": 1.084,
+   "text": "It lived four seconds. Then it remembered the rent."
+  },
+  {
+   "id": "n10",
+   "voice": "n",
+   "start": 81.3,
+   "dur": 1.442,
+   "end": 82.742,
+   "tempo": 1.18,
+   "text": "Plan two: the guessing abyss."
+  },
+  {
+   "id": "x06",
+   "voice": "x",
+   "start": 82.9,
+   "dur": 5.629,
+   "end": 88.529,
+   "tempo": 1.18,
+   "text": "Every abyss has a name. Xargoth. XARGOTH. xargoth666..."
+  },
+  {
+   "id": "k04",
+   "voice": "k",
+   "start": 88.679,
+   "dur": 2.774,
+   "end": 91.453,
+   "tempo": 1.18,
+   "text": "Her router. 'Obaa' plus numbers.",
+   "shift": 0.18
+  },
+  {
+   "id": "x07",
+   "voice": "x",
+   "start": 91.7,
+   "dur": 5.8,
+   "end": 97.5,
+   "tempo": 1.156,
+   "text": "Then the abyss shall know: obaa1. obaa12. obaa123."
+  },
+  {
+   "id": "n11",
+   "voice": "n",
+   "start": 98.0,
+   "dur": 2.58,
+   "end": 100.58,
+   "tempo": 1.088,
+   "text": "Attempt forty-one: declined. Politely."
+  },
+  {
+   "id": "k05",
+   "voice": "k",
+   "start": 101.1,
+   "dur": 3.479,
+   "end": 104.579,
+   "tempo": 1.0,
+   "text": "Locked out. Thirty minutes. Raid boss."
+  },
+  {
+   "id": "n12",
+   "voice": "n",
+   "start": 106.3,
+   "dur": 1.438,
+   "end": 107.738,
+   "tempo": 1.0,
+   "text": "Plan three: diplomacy."
+  },
+  {
+   "id": "x08",
+   "voice": "x",
+   "start": 108.3,
+   "dur": 4.053,
+   "end": 112.353,
+   "tempo": 1.18,
+   "text": "I shall negotiate as equals. Myself. And the woman who owns the building."
+  },
+  {
+   "id": "k06",
+   "voice": "k",
+   "start": 113.3,
+   "dur": 2.928,
+   "end": 116.227,
+   "tempo": 1.18,
+   "text": "Those are the same IOUs from March."
+  },
+  {
+   "id": "n13",
+   "voice": "n",
+   "start": 119.4,
+   "dur": 2.688,
+   "end": 122.088,
+   "tempo": 1.0,
+   "text": "The door opened four centimeters. A note emerged."
+  },
+  {
+   "id": "x09",
+   "voice": "x",
+   "start": 122.7,
+   "dur": 4.057,
+   "end": 126.757,
+   "tempo": 1.18,
+   "text": "'Wi-Fi resumes when rent does.' She RHYMED. She had this READY."
+  },
+  {
+   "id": "n14",
+   "voice": "n",
+   "start": 127.5,
+   "dur": 1.971,
+   "end": 129.471,
+   "tempo": 1.0,
+   "text": "The war cabinet met for eleven seconds."
+  },
+  {
+   "id": "n15",
+   "voice": "n",
+   "start": 135.6,
+   "dur": 1.734,
+   "end": 137.334,
+   "tempo": 1.0,
+   "text": "Night shift. The last free Wi-Fi in the realm."
+  },
+  {
+   "id": "m01",
+   "voice": "m",
+   "start": 139.0,
+   "dur": 2.737,
+   "end": 141.737,
+   "tempo": 1.0,
+   "text": "Password's on the receipt. Receipt comes with a purchase."
+  },
+  {
+   "id": "x10",
+   "voice": "x",
+   "start": 143.2,
+   "dur": 6.696,
+   "end": 149.896,
+   "tempo": 1.18,
+   "text": "Name your price, gatekeeper. The crown of the Unending awaits the highest bidder. I require... one pudding."
+  },
+  {
+   "id": "k08",
+   "voice": "k",
+   "start": 150.046,
+   "dur": 2.707,
+   "end": 152.753,
+   "tempo": 1.18,
+   "text": "The last pudding. Paid in couch coins.",
+   "shift": 0.65
+  },
+  {
+   "id": "n16",
+   "voice": "n",
+   "start": 153.3,
+   "dur": 2.906,
+   "end": 156.206,
+   "tempo": 1.086,
+   "text": "The receipt said: obaa-zero-three-zero-two."
+  },
+  {
+   "id": "x11",
+   "voice": "x",
+   "start": 156.8,
+   "dur": 2.055,
+   "end": 158.855,
+   "tempo": 1.0,
+   "text": "The abyss... was a pudding."
+  },
+  {
+   "id": "n17",
+   "voice": "n",
+   "start": 160.8,
+   "dur": 2.78,
+   "end": 163.58,
+   "tempo": 1.0,
+   "text": "The listing went live. 'Cursed crown. Slightly weeping.'"
+  },
+  {
+   "id": "c01",
+   "voice": "c",
+   "start": 164.6,
+   "dur": 2.227,
+   "end": 166.827,
+   "tempo": 1.0,
+   "text": "Is the weeping... a feature?"
+  },
+  {
+   "id": "x12",
+   "voice": "x",
+   "start": 167.9,
+   "dur": 4.734,
+   "end": 172.634,
+   "tempo": 1.18,
+   "text": "The crown weeps only for the unworthy. You may proceed."
+  },
+  {
+   "id": "k09",
+   "voice": "k",
+   "start": 172.784,
+   "dur": 3.862,
+   "end": 176.646,
+   "tempo": 1.18,
+   "text": "My lord, restock. The onigiri are unionizing.",
+   "shift": 0.88
+  },
+  {
+   "id": "n18",
+   "voice": "n",
+   "start": 176.796,
+   "dur": 2.2,
+   "end": 178.996,
+   "tempo": 1.079,
+   "text": "By nine forty, the bid was one hundred fifty thousand.",
+   "shift": 1.0
+  },
+  {
+   "id": "x13",
+   "voice": "x",
+   "start": 179.6,
+   "dur": 2.104,
+   "end": 181.704,
+   "tempo": 1.021,
+   "text": "WHO DARES WARM FOOD."
+  },
+  {
+   "id": "m02",
+   "voice": "m",
+   "start": 182.6,
+   "dur": 3.457,
+   "end": 186.057,
+   "tempo": 1.0,
+   "text": "The microwave is essential equipment. No war on the microwave."
+  },
+  {
+   "id": "x14",
+   "voice": "x",
+   "start": 187.0,
+   "dur": 4.181,
+   "end": 191.181,
+   "tempo": 1.18,
+   "text": "Then I shall wait. Like the tide. Like the dungeon."
+  },
+  {
+   "id": "n19",
+   "voice": "n",
+   "start": 191.4,
+   "dur": 3.159,
+   "end": 194.559,
+   "tempo": 1.014,
+   "text": "At nine fifty-eight: two hundred thirty-eight thousand. Exact."
+  },
+  {
+   "id": "k10",
+   "voice": "k",
+   "start": 195.3,
+   "dur": 4.244,
+   "end": 199.544,
+   "tempo": 1.18,
+   "text": "Sixty seconds. Don't breathe. Don't microwave anything."
+  },
+  {
+   "id": "n20",
+   "voice": "n",
+   "start": 200.9,
+   "dur": 3.966,
+   "end": 204.866,
+   "tempo": 1.18,
+   "text": "The listing closed offline. Outbid by... obaa, god, seven-seven-seven."
+  },
+  {
+   "id": "x15",
+   "voice": "x",
+   "start": 205.016,
+   "dur": 2.219,
+   "end": 207.235,
+   "tempo": 1.0,
+   "text": "...The crown was never about the money.",
+   "shift": 0.42
+  },
+  {
+   "id": "k11",
+   "voice": "k",
+   "start": 208.0,
+   "dur": 2.428,
+   "end": 210.428,
+   "tempo": 1.18,
+   "text": "It was entirely about the money."
+  },
+  {
+   "id": "n21",
+   "voice": "n",
+   "start": 210.6,
+   "dur": 3.264,
+   "end": 213.864,
+   "tempo": 1.18,
+   "text": "At closing, the final customer arrived. She had already bought."
+  },
+  {
+   "id": "o01",
+   "voice": "o",
+   "start": 214.3,
+   "dur": 5.225,
+   "end": 219.525,
+   "tempo": 1.18,
+   "text": "Two thirty-eight. Delivery: me. Crown stays on your head."
+  },
+  {
+   "id": "o02",
+   "voice": "o",
+   "start": 219.675,
+   "dur": 2.517,
+   "end": 222.192,
+   "tempo": 1.0,
+   "text": "Interest: waived. This once.",
+   "shift": 0.18
+  },
+  {
+   "id": "x16",
+   "voice": "x",
+   "start": 223.4,
+   "dur": 2.495,
+   "end": 225.895,
+   "tempo": 1.18,
+   "text": "Rent: cleared. Dignity: pending."
+  },
+  {
+   "id": "k12",
+   "voice": "k",
+   "start": 226.2,
+   "dur": 3.195,
+   "end": 229.395,
+   "tempo": 1.151,
+   "text": "The password. IT WAS ON THE LEASE. Page nine. 'Amenities.'"
+  },
+  {
+   "id": "x17",
+   "voice": "x",
+   "start": 230.0,
+   "dur": 2.592,
+   "end": 232.592,
+   "tempo": 1.079,
+   "text": "I know. I signed it."
+  },
+  {
+   "id": "n22",
+   "voice": "n",
+   "start": 233.1,
+   "dur": 2.017,
+   "end": 235.117,
+   "tempo": 1.0,
+   "text": "Never locked against him. Only against the cat."
+  }
+ ],
+ "events": {
+  "freeze_f": 561,
+  "freeze_t": 18.7,
+  "snap_t": 16.88,
+  "don_k1": 14.11,
+  "op_logo": 22.0,
+  "op_cards": [
+   23.333333333333332,
+   26.0,
+   28.666666666666668,
+   31.333333333333336
+  ],
+  "op_group": 31.333333333333336,
+  "op_finale": 35.333333333333336,
+  "eye_t": 130.0,
+  "laugh_t": [
+   57.73,
+   76.71,
+   100.88,
+   127.01,
+   159.1,
+   210.68
+  ],
+  "brute_t": 82.9,
+  "plug_t": 65.41,
+  "hope_t": 71.0,
+  "die_t": 73.4,
+  "shadow_t": 118.5,
+  "live_t": 160.8,
+  "micro_t": 179.5,
+  "bid_t": 191.4,
+  "snipe_t": 199.74,
+  "payday_silence": [
+   200.04,
+   200.7
+  ],
+  "obaa_t": 210.8,
+  "deal_t": 219.53,
+  "end_t": 225.0
+ }
+}

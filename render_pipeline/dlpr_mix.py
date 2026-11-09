@@ -72,10 +72,13 @@ print("wrote", out_wav, f"{TOTAL:.1f}s peak={peak:.3f}")
 
 # ---------- mux ----------
 out_mp4 = "/home/z/my-project/download/dlpr_episode1_full.mp4"
-cmd = ["ffmpeg", "-y", "-hide_banner", "-loglevel", "error",
-       "-i", os.path.join(ROOT, "video.h264"),
+# raw h264 has no timestamps -> the muxer silently drops the audio stream.
+# setts stamps video pts/dts (tb 1/1200000 -> 30fps = 40000 ticks/frame).
+# NOTE: do NOT add -shortest here (deadlocks the interleaver with setts).
+cmd = ["ffmpeg", "-y", "-hide_banner", "-loglevel", "error", "-nostdin",
+       "-framerate", "30", "-i", os.path.join(ROOT, "video.h264"),
        "-i", out_wav,
-       "-c:v", "copy", "-c:a", "aac", "-b:a", "192k",
-       "-shortest", "-movflags", "+faststart", out_mp4]
+       "-c:v", "copy", "-bsf:v", "setts=ts=N*40000", "-c:a", "aac", "-b:a", "192k",
+       "-movflags", "+faststart", out_mp4]
 subprocess.run(cmd, check=True)
 print("wrote", out_mp4)

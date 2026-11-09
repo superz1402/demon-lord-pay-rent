@@ -102,7 +102,7 @@ def subtitle(d,g,lid,speaker,color,en,jp=None,cat=False):
         sx=L(306)
     txt_shadow(d,(sx,L(y0+8)),speaker,F(38*K),color,shadow=(2,2))
     txt(d,(sx,L(y0+50)),en,F(31*K,False),WHITE)
-    if jp: txt(d,(L(1620),L(y0+8)),jp,F(28*K),blend(CREAM,color,0.9),anchor="ra")
+    if jp: txt(d,(L(1620),L(y0+8)),jp,F(28*K,True,True),blend(CREAM,color,0.9),anchor="ra")
 
 def speedlines(d,f,color,op=0.85,cx=960,cy=540,k=1.0,density=28):
     rot=(f*1.2)%(360/density)
@@ -131,7 +131,7 @@ def don(d,f,t0,x,y,k=1.0):
               (x*k+math.cos(a2)*260*grow*k, y*k+math.sin(a2)*260*grow*k),
               (x*k+math.cos(a2+.1)*150*grow*k, y*k+math.sin(a2+.1)*150*grow*k)]
     d.polygon(pts,fill=cg,outline=ci)
-    txt(d,(x*k,y*k+26*grow*k),"ドン",F(120*k),ca,anchor="mm",stroke=int(8*k*grow),sfill=ci)
+    txt(d,(x*k,y*k+26*grow*k),"ドン",F(120*k,True,True),ca,anchor="mm",stroke=int(8*k*grow),sfill=ci)
 
 def laugh(d,g,t0,k=1.0,len_=26):
     t=g-t0
@@ -155,7 +155,7 @@ def cam_apply(img,x,y,s):
     if s==1 and x==0 and y==0:
         return img.resize((W,H),Image.BILINEAR)
     vx=(-960-x)/s+960; vy=(-540-y)/s+540
-    vx=max(-1920/s,min(1920,vx)); vy=max(-1080/s,min(1080,vy))
+    vx=clamp(vx,0,1920-1920/s); vy=clamp(vy,0,1080-1080/s)
     return img.resize((W,H),Image.BILINEAR,box=(vx,vy,vx+1920/s,vy+1080/s))
 
 def vignette(frame,strength=0.35):

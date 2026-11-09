@@ -88,9 +88,19 @@ raea check out/episode-1.mp4
 
 ---
 
+## Episodes
+
+- **Episode 1 — The Rent Must Flow** · full cut released as `v1.0.0`
+- **Episode 2 — The Abyssal Wi-Fi Password** · full cut released as `v1.1.0`
+  (55 voiced lines, 6 voices; the landlady buys back the cursed crown, the
+  password was on the lease all along, the cat was hogging the router)
+
 ## Extend it
 
-- **Episode 2 is scripted** — "The WiFi Password of the Abyss" (see docs).
+- **Episode 2 pipeline lives in `render_pipeline/`** (`dlpr_lines2.py` →
+  `timeline_ep2.json` → `dlpr_score2.py` / `dlpr_segs2.py` / `dlpr_render2.py`
+  / `dlpr_mix2.py`). Episode 3 ("Demon Lord, Night Shift", teased on the Ep2
+  end card) reuses the same skeleton: same segment map, new lines + seg code.
 - New gags = new frames in a scene file; every joke sits on a numbered
   beat, so retiming a punchline is moving one constant.
 - New characters: copy `SeniorTheCat.tsx`, keep the 6–8px ink outline and
